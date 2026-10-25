@@ -1,0 +1,15 @@
+# Private Arbeitsdateien – bleiben nur auf meinem PC
+LOGBUCH.md
+ANLEITUNG.md
+GIT-LEITFADEN.md
+tutorial-template.md
+README-template.md
+
+# Secrets – dürfen niemals ins Repo
+secrets.yaml
+*.env
+*token*
+
+# Systemdateien
+.DS_Store
+Thumbs.db
